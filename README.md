@@ -1,7 +1,7 @@
 Opa! Eu sou o Adriano
 
 - 🔭 Hoje trabalho como Gerente de Projetos
-- 🌱 Estudando Ambientes virtualizados, Linux, Python, PHP e algumas coisinhas mais
+- 🌱 Estudando Ambientes virtualizados, Linux, Python e algumas coisinhas mais
 - 📫 Onde me encontrar: https://baumart.com.br
 
 <div>
